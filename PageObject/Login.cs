@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace PraticalAssignment.PageObject
 {
     //public class Login
-    //{ 
+    //{
     //    IWebDriver driver;
     //    public Login(IWebDriver _driver)
     //    {
@@ -16,6 +16,6 @@ namespace PraticalAssignment.PageObject
 
     //    IWebElement login => driver.FindElement(By.CssSelector("/login"));
 
-    //    public void clickLogin()=> login.Click();
+    //    public void clickLogin() => login.Click();
     //}
 }
